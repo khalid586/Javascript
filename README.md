@@ -4,3 +4,20 @@
 > **javascript is one of the most widely used programming languages in the world right now.In this repository you will get to know about javascript from the very basics and later on we will build projects as well.**
 
 
+
+
+
+
+
+
+
+
+
+
+<!-- Things I need to include
+1. Repositories 
+2. preli result 
+3. update all the 2x with 3x
+4. Correct "About me" & "connect me" section 
+
+ -->
