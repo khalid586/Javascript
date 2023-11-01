@@ -5,7 +5,7 @@
 
 <br><br>
 
-# Basics
+# Datatypes
 
 📌 **Q: Why do we use `let` instead of `var`?**
 
@@ -21,27 +21,36 @@
 We are going to look at some datatypes.
 
  `number`
+ > 12 , 34 , 3,4
 
 `bigint`
+> 432434254423423432
 
 `string`
+> "My name is Khan"
 
 `boolean`
+> false , true
 
-**`null`** this is an `object`
 
-- This is a standalone `value` this means the variable doesn’t hold any kind value.
-- Example: Supposed we tried to fetch temperature from frontend and we didn’t get any temperature it will return us `null`.
+**`null`** 
 
-`undefined` it is a `datatype`
+- this is an **object**
+- This is a standalone **value** this means the variable doesn’t hold any kind value.
+- Example: Supposed we tried to fetch temperature from frontend and we didn’t get any temperature it will return us **null**.
 
+`undefined` 
+- it is a **datatype**
 - Means datatype has not been defined yet.
 
-- we use `symbol` for uniqueness (of `components`). Will know  more in `react`.
+`symbol`
+- we use **symbol** for uniqueness (of `components`).
 
 `Object`
+- Holds values as` key:value`
+  > Will deep dive into this later.
 
-- Deep dive into this later.
+<br>
 
 ---
 
