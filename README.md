@@ -48,7 +48,7 @@ We are going to look at some datatypes.
 - we use **symbol** for uniqueness (of `components`).
 
 `Object`
-- Holds values as` key:value`
+- Holds values as `key:value`
   > Will deep dive into this later.
 
 <br>
